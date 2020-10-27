@@ -1,5 +1,5 @@
 {
-    "name": "s/php-test",
+    "name": "Slava554/php-test",
     "authors": [
         {
             "name": "Test",
@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-          "s\\php-test\\": "src/"
+          "Slava554\\Summer\\": "src/"
         }
     }
 }

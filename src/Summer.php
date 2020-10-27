@@ -1,6 +1,6 @@
 <?php
 
-namespace slava554\Summer;
+namespace Slava554\Summer;
 
 class Summer{
     public static function summ(float $x, float $y):float
