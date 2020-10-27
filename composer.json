@@ -1,0 +1,13 @@
+{
+    "name": "s/php-2.local",
+    "authors": [
+        {
+            "name": "Test",
+            "email": "test@mail.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
